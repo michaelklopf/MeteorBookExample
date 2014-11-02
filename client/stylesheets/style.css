@@ -162,3 +162,7 @@ body {
   margin-bottom: 5px;
   pointer-events: auto;
 }
+
+.alert-danger {
+  padding: 0px 10px 0px 10px;
+}
